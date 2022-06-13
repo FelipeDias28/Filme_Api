@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfbd2eb5-e85b-4258-9f5a-712754252c00": {
+      "ProjectGuid": "dfbd2eb5-e85b-4258-9f5a-712754252c00",
+      "DisplayName": "Filmes_API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
